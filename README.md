@@ -2,6 +2,10 @@
 
 Description This project is a collection of random modules made in Unity, which can be used to create future project faster.
 
+The specification of the projects are given in the WDID.txt(What does it do) files inside the respective folders
+
+if you need any help contact pjk096@gmail.com
+
 version of unity: 5.6.3p2
 
 ## Installation
