@@ -1,0 +1,1 @@
+Proper script touse raycast and instatiate objects on collision of the rays.

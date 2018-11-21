@@ -1,0 +1,10 @@
+lastUpgrade=00936
+proj.pluginVersion=0.9.36
+proj.AppId=840999056380
+and.BundleId=com.theredandblack.actofgod
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e840999056380%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.theredandblack.actofgod%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_not_a_disaster...%22%3eCgkI_OfM-7wYEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_point_blank%22%3eCgkI_OfM-7wYEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_full_combo%22%3eCgkI_OfM-7wYEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_clear_all_levels%22%3eCgkI_OfM-7wYEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_perfect_accuracy%22%3eCgkI_OfM-7wYEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_sargent%22%3eCgkI_OfM-7wYEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_captain%22%3eCgkI_OfM-7wYEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_admiral%22%3eCgkI_OfM-7wYEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_cubic_pilot_hall_of_fame%22%3eCgkI_OfM-7wYEAIQCQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
